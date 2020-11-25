@@ -4,8 +4,8 @@
   "description": "myproject",
   "main": "main.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node main.js",
+    "dev": "nodemon main.js"
   },
   "author": "K-L",
   "license": "ISC",
